@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TheFavoritePlace</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude and longitude used</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">Address found</string>
+    <string name="get_location">Get location</string>
+    <string name="no_geocoder_available">Geocoder is not available</string>
+    <string name="city">City</string>
+    <string name="test">test</string>
+    <string name="your_location">Your location:</string>
+    <string name="Latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="deleteItem">Delete</string>
+    <string name="delete_location">Delete Locations</string>
+    <string name="delete2">Delete</string>
+</resources>
